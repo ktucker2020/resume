@@ -23,6 +23,7 @@ body {
   background-image: url('intro-bg.jpg');
   background-size: cover;
   background-position: center;
+    padding: 4em;
 }
 
 /* bio card */
@@ -34,6 +35,9 @@ body {
   font-weight: 300;
   box-shadow: 0 19px 38px rgba(0,0,0,0.20),
               0 15px 12px rgba(0,0,0,0.17);
+    margin-left: auto;
+    margin-right: auto;
+        
 }
 
 #bio-pic {
@@ -41,6 +45,8 @@ body {
   height: 150px;
   border-radius: 50%;
   overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #bio-pic > img {
